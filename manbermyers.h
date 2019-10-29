@@ -2,7 +2,7 @@
  * @headerfile ManberMyers.cpp
  * @author: Richik Vivek Sen (rsen9@gatech.edu)
  * @date 10/28/2019
- * @brief Header file for ManberMyers.cpp.
+ * @brief Header file for manbermyers.cpp.
  */
 
 

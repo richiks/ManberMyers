@@ -3,6 +3,7 @@
  * @author: Richik Vivek Sen (rsen9@gatech.edu)
  * @date 10/28/2019
  * @brief Implementation of the Manber-Myers algorithm.
+ * @headerfile manbermyers.h
  */
 
 #include "manbermyers.h"
