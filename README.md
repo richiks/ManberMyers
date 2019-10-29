@@ -63,10 +63,6 @@
  * time.
  
 # DC3 algorithm
-
- * File: DC3.cpp
- * Author: Keith Schwarz (htiek@cs.stanford.edu)
- *
  * Implementation of the DC3 algorithm.
  *
  * DC3 is a recursive suffix array construction algorithm that works on general
