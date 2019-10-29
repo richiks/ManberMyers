@@ -186,12 +186,12 @@
  * sort the T0 suffixes, we can compare any T0 suffix against any T12 suffix.
  * To see this, note that
  *
- *   * a T0 suffix consists of a pair of the form (char, T1 suffix) and
+ *     a T0 suffix consists of a pair of the form (char, T1 suffix) and
  *     a T1 suffix consists of a pair of the form (char, T2 suffix), and since
  *     we know the relative orders of the T1 and T2 suffixes, we can compare
  *     these suffixes in constant time.
  *
- *   * a T0 suffix consists of a triple of the form (char, char, T2 suffix) and
+ *     a T0 suffix consists of a triple of the form (char, char, T2 suffix) and
  *     a T2 suffix consists of a triple of the form (char, char, T1 suffix),
  *     and we know the relative ordering of the T1 and T2 suffixes.
  *
