@@ -83,16 +83,16 @@
  * T12 suffixes. Let's imagine, for example, that our input string is
  * MONSOONNOMNOMS$. The T12 suffixes here would then be
  *
- *   ONSOONNOMNOMS$
- *    NSOONNOMNOMS$
- *      OONNOMNOMS$
- *       ONNOMNOMS$
- *         NOMNOMS$
- *          OMNOMS$
- *            NOMS$
- *             OMS$
- *               S$
- *                $
+ *    ONSOONNOMNOMS$
+ *     NSOONNOMNOMS$
+ *       OONNOMNOMS$
+ *        ONNOMNOMS$
+ *          NOMNOMS$
+ *           OMNOMS$
+ *             NOMS$
+ *              OMS$
+ *                S$
+ *                 $
  *
  * The algorithm first begins by forming two new strings. The string T1 is
  * formed by dropping the first character from the input string T and padding
